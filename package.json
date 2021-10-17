@@ -1,0 +1,23 @@
+{
+  "name": "songlyricfinder",
+  "version": "1.0.0",
+  "description": "![GitHub](https://img.shields.io/github/license/VictorHugoDC1999/song-lyric-finder)\r ![GitHub language count](https://img.shields.io/github/languages/count/VictorHugoDC1999/song-lyric-finder)\r ![GitHub top language](https://img.shields.io/github/languages/top/VictorHugoDC1999/song-lyric-finder)\r # song-lyric-finder\r Projeto Buscador de letras de Músicas em Js Puro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorHugoDC1999/song-lyric-finder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorHugoDC1999/song-lyric-finder/issues"
+  },
+  "homepage": "https://github.com/VictorHugoDC1999/song-lyric-finder#readme",
+  "dependencies": {
+    "eslint": "^8.0.1"
+  }
+}
