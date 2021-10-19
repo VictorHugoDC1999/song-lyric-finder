@@ -7,11 +7,13 @@ const prevAndNextContainer = document.querySelector('#prev-and-next-container');
 // eslint-disable-next-line no-unused-vars
 const apiURL = 'https://api.lyrics.ovh';
 
-const fetchSongs = (term) => {
-	fetch();
+const fetchSongs = term => {
+	fetch(`${apiURL}/suggest/${term}`).then((response) => response.json()).then(data => {
+		console.log(data);
+	});
 };
 
-form.addEventListener('submit', (event) => {
+form.addEventListener('submit', event => {
 	event.preventDefault();
 
 	const searchTerm = searchInput.value.trim();
