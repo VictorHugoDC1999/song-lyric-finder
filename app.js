@@ -7,13 +7,13 @@ const prevAndNextContainer = document.querySelector('#prev-and-next-container');
 // eslint-disable-next-line no-unused-vars
 const apiURL = 'https://api.lyrics.ovh';
 
-const fetchSongs = term => {
-	fetch(`${apiURL}/suggest/${term}`).then((response) => response.json()).then(data => {
-		console.log(data);
-	});
+const fetchSongs = async (term) => {
+	const response = await fetch(`${apiURL}/suggest/${term}`);
+	// eslint-disable-next-line no-unused-vars
+	const data = await response.json();
 };
 
-form.addEventListener('submit', event => {
+form.addEventListener('submit', (event) => {
 	event.preventDefault();
 
 	const searchTerm = searchInput.value.trim();
