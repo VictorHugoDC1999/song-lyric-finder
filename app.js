@@ -11,6 +11,7 @@ const fetchSongs = async (term) => {
 	const response = await fetch(`${apiURL}/suggest/${term}`);
 	// eslint-disable-next-line no-unused-vars
 	const data = await response.json();
+
 };
 
 form.addEventListener('submit', (event) => {
