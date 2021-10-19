@@ -1,5 +1,5 @@
 ![Song Lyric Finder Orange](https://img.shields.io/badge/VictorHugoDC1999-Song--Lyric--Finder-orange)
-![GitHub](https://img.shields.io/github/license/VictorHugoDC1999/song-lyric-finder)
+![GitHub](https://img.shields.io/badge/license-MIT-redup)
 ![GitHub language count](https://img.shields.io/github/languages/count/VictorHugoDC1999/song-lyric-finder)
 ![GitHub top language](https://img.shields.io/github/languages/top/VictorHugoDC1999/song-lyric-finder)
 # song-lyric-finder
