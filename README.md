@@ -9,10 +9,10 @@
 <p align="center">
  <a href="#-Sobre">Sobre</a> •
  <a href="#-Tecnologias">Tecnologias</a> •
- <a href="#-Features">Features</a> •
+ <a href="#-Branchs">Branchs</a> •
  <a href="#-Contribuir">Contribuir</a>•
  <a href="#-Versionamento">Versionamento</a>•
- <a href="#-License">Versionamento</a>•
+ <a href="#-License">Licença</a>•
 </p>
 
 ### 💡 Sobre
