@@ -10,9 +10,9 @@
  <a href="#-Sobre">Sobre</a> •
  <a href="#-Tecnologias">Tecnologias</a> •
  <a href="#-Branchs">Branchs</a> •
- <a href="#-Contribuir">Contribuir</a>•
- <a href="#-Versionamento">Versionamento</a>•
- <a href="#-License">Licença</a>•
+ <a href="#-Contribuir">Contribuir</a> •
+ <a href="#-Versionamento">Versionamento</a> •
+ <a href="#-License">Licença</a>
 </p>
 
 ### 💡 Sobre
