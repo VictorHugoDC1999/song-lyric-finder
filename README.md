@@ -3,19 +3,16 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/VictorHugoDC1999/song-lyric-finder)
 ![GitHub top language](https://img.shields.io/github/languages/top/VictorHugoDC1999/song-lyric-finder)
 <h1 align="center">
-  <img alt="Lyrics Search" title="Lyrics Searach" src="./assets/apresentation.gif" width="700px"/><br>
   Song Lyric Search
 </h1>
-# song-lyric-search
-Projeto Buscador de letras de Músicas em Js Puro
 
 <p align="center">
  <a href="#-Sobre">Sobre</a> •
  <a href="#-Tecnologias">Tecnologias</a> •
  <a href="#-Features">Features</a> •
- <a href="#-Contributing/Contribuir">Contribuir</a>•
- <a href="#-Versioning/Versionamento">Versionamento</a>•
- <a href="#-License/Licença do Projeto">Versionamento</a>•
+ <a href="#-Contribuir">Contribuir</a>•
+ <a href="#-Versionamento">Versionamento</a>•
+ <a href="#-License">Versionamento</a>•
 </p>
 
 ### 💡 Sobre
@@ -37,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [lyrics](https://lyricsovh.docs.apiary.io/#)
 
-### ⚙ Features/Branchs
+### ⚙ Branchs
 
 - [x] Add License
 - [x] Main Page
@@ -45,12 +42,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [x] Insert Screen
 - [ ] Mobile
 
-### Contributing/Contribuir
+### Contribuir
 Quer contribuir com o projeto? [Confira o passo a passo](./CONTRIBUTING.md)
 Quer ver o que está por vir? [Acompanhe aqui](https://github.com/VictorHugoDC1999/song-lyric-finder/projects)
 
-### Versioning/Versionamento
+### Versionamento
 Esse projeto não possui um sistema de versionamento.
 
-### License/Licença do Projeto
+### License
 MIT License © Victor Hugo
